@@ -8039,11 +8039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\NetCoreAPI-main\\MvcMovie\\FirstWebMVC.csproj",
-      "projectName": "FirstWebMVC",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\NetCoreAPI-main\\MvcMovie\\FirstWebMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\MvcMovie\\MvcMovie.csproj",
+      "projectName": "MvcMovie",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\NetCoreAPI-main\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
